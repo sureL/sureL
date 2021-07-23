@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-My name is Jennifer and I'm the CTO at [Sharper Informatics Solutions](sharperinfo.com) and the owner of [Sound Data](sound-data.com).
+My name is Jennifer and I'm the CTO at [Sharper Informatics Solutions](https://www.sharperinfo.com/) and the owner of [Sound Data](https://www.sound-data.com/).
 - ⚡ My open source data driven web application projects include [Hydra](http://hydra3.sound-data.com/) and the [Shoreline Monitoring Database](https://shoreline-monitoring.herokuapp.com/)
 - 🔭 I’m currently working on [My Data Chameleon](https://mydatachameleon.com/) and the [California Public Utility Commission CEDARS project](https://cedars.sound-data.com)
 - 💬 Ask me about PostgreSQL, SQL, and relational data
